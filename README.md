@@ -1,2 +1,2 @@
 # Smart_attendance_system
-smart attendance system in cpp.
+smart attendance management system in cpp.
